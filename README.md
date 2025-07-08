@@ -23,8 +23,8 @@ This app provides clear feedback for incorrect or empty inputs:
 - Example Screenshot:  
 <p align="center">
 
-![Input Empty](./Weather2.png)
-  
+<img src="Weather2" alt="Empty Weather">
+
 </p>
 ---
 
