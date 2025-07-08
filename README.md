@@ -16,31 +16,30 @@ A simple yet functional **Weather Application** that allows you to search the we
 
 ## ⚡ Validation & Error Handling
 
-This app provides clear feedback for incorrect or empty inputs:
-
 ✅ **Empty Input**  
 - If the input is left blank, the app shows an **Error Message: "Input is empty"**  
-- Example Screenshot:  
-<p style="text-align:center">
 
-<img src="Weather2" alt="Empty Weather">
-
+<p align="center">
+  <img src="./Weather2.png" alt="Input Empty" />
 </p>
+
 ---
 
 ✅ **Invalid City Name**  
 - If the entered city name is incorrect or not found, the app shows an **Error Message: "City not found"**  
-- Example Screenshot:  
 
-![City Not Found](./Weather3.png)  
+<p align="center">
+  <img src="./Weather3.png" alt="City Not Found" />
+</p>
 
 ---
 
 ✅ **Correct City Name**  
 - If a valid city name is entered, the weather details are displayed properly 🌦️  
-- Example Screenshot:  
 
-![Weather Found](./Weather1.png)  
+<p align="center">
+  <img src="./Weather1.png" alt="Weather Found" />
+</p>
 
 ---
 
