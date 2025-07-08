@@ -20,7 +20,7 @@ A simple yet functional **Weather Application** that allows you to search the we
 - If the input is left blank, the app shows an **Error Message: "Input is empty"**  
 
 <p align="center">
-  <img src="./Weather2.png" alt="Input Empty" />
+  <img src="./Weather2.png" alt="Input Empty" style="border-radius: 20px;width: 300px"/>
 </p>
 
 ---
@@ -29,7 +29,7 @@ A simple yet functional **Weather Application** that allows you to search the we
 - If the entered city name is incorrect or not found, the app shows an **Error Message: "City not found"**  
 
 <p align="center">
-  <img src="./Weather3.png" alt="City Not Found" />
+  <img src="./Weather3.png" alt="City Not Found" style="border-radius: 20px;width:300px"/>
 </p>
 
 ---
@@ -38,7 +38,7 @@ A simple yet functional **Weather Application** that allows you to search the we
 - If a valid city name is entered, the weather details are displayed properly 🌦️  
 
 <p align="center">
-  <img src="./Weather1.png" alt="Weather Found" />
+  <img src="./Weather1.png" alt="Weather Found" style="border-radius:20px;width:300px"/>
 </p>
 
 ---
