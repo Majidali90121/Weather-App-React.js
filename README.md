@@ -21,7 +21,7 @@ This app provides clear feedback for incorrect or empty inputs:
 ✅ **Empty Input**  
 - If the input is left blank, the app shows an **Error Message: "Input is empty"**  
 - Example Screenshot:  
-<p align="center">
+<p style="text-align:center">
 
 <img src="Weather2" alt="Empty Weather">
 
