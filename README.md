@@ -23,7 +23,7 @@ If the input field is blank, the app displays:
 **"Input is empty"**
 
 <p align="center">
-  <img src="./Weather2.png" alt="Input Empty" style="border-radius: 10px; width: 700px;" />
+  <img src="./Weather2.png" alt="Input Empty" style="border-radius: 40px; width: 700px;" />
 </p>
 
 ---
@@ -33,7 +33,7 @@ If the entered city name is incorrect or not found, the app displays:
 **"City not found"**
 
 <p align="center">
-  <img src="./Weather3.png" alt="City Not Found" style="border-radius: 10px; width: 700px;" />
+  <img src="./Weather3.png" alt="City Not Found" style="border-radius: 40px; width: 700px;" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ If the entered city name is incorrect or not found, the app displays:
 If a valid city name is entered, the weather details appear:
 
 <p align="center">
-  <img src="./Weather1.png" alt="Weather Found" style="border-radius: 10px; width: 700px;" />
+  <img src="./Weather1.png" alt="Weather Found" style="border-radius: 40px; width: 700px;" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ If a valid city name is entered, the weather details appear:
 2. Clone the repository  
 
 ```bash
-git clone https://github.com/YourGitHubUsername/WeatherApp.git  
+git clone https://github.com/Majidali90121/WeatherApp.git  
 cd WeatherApp  
 npm install  
 npm start  
